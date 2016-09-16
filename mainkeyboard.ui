@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Mainkeyboard</class>
+ <widget class="QWidget" name="Mainkeyboard">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>320</width>
+    <height>240</height>
+   </rect>
+  </property>
+  <property name="palette">
+   <palette>
+    <active>
+     <colorrole role="WindowText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Text">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>91</red>
+        <green>91</green>
+        <blue>91</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </active>
+    <inactive>
+     <colorrole role="WindowText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Text">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>91</red>
+        <green>91</green>
+        <blue>91</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </inactive>
+    <disabled>
+     <colorrole role="WindowText">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>120</red>
+        <green>120</green>
+        <blue>120</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Text">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>120</red>
+        <green>120</green>
+        <blue>120</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Base">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>91</red>
+        <green>91</green>
+        <blue>91</blue>
+       </color>
+      </brush>
+     </colorrole>
+     <colorrole role="Window">
+      <brush brushstyle="SolidPattern">
+       <color alpha="255">
+        <red>91</red>
+        <green>91</green>
+        <blue>91</blue>
+       </color>
+      </brush>
+     </colorrole>
+    </disabled>
+   </palette>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="Button_8">
+   <property name="geometry">
+    <rect>
+     <x>66</x>
+     <y>190</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>8tuv</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_7">
+   <property name="geometry">
+    <rect>
+     <x>2</x>
+     <y>190</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>7pqrs</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Buttonz4">
+   <property name="geometry">
+    <rect>
+     <x>122</x>
+     <y>30</y>
+     <width>41</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Buttonz3">
+   <property name="geometry">
+    <rect>
+     <x>82</x>
+     <y>30</y>
+     <width>41</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_qh">
+   <property name="geometry">
+    <rect>
+     <x>258</x>
+     <y>140</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>ABC</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Buttonz2">
+   <property name="geometry">
+    <rect>
+     <x>42</x>
+     <y>30</y>
+     <width>41</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_0">
+   <property name="geometry">
+    <rect>
+     <x>194</x>
+     <y>140</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>0</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_6">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>140</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>6mno</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Buttonz1">
+   <property name="geometry">
+    <rect>
+     <x>2</x>
+     <y>30</y>
+     <width>41</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_5">
+   <property name="geometry">
+    <rect>
+     <x>66</x>
+     <y>140</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>5jkl</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_add">
+   <property name="geometry">
+    <rect>
+     <x>258</x>
+     <y>90</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_1">
+   <property name="geometry">
+    <rect>
+     <x>2</x>
+     <y>50</y>
+     <width>331</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_2">
+   <property name="geometry">
+    <rect>
+     <x>66</x>
+     <y>90</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>2abc</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_xh">
+   <property name="geometry">
+    <rect>
+     <x>194</x>
+     <y>90</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>*</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_3">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>90</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>3def</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Buttonz8">
+   <property name="geometry">
+    <rect>
+     <x>282</x>
+     <y>30</y>
+     <width>41</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Buttonz6">
+   <property name="geometry">
+    <rect>
+     <x>202</x>
+     <y>30</y>
+     <width>41</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_sub">
+   <property name="geometry">
+    <rect>
+     <x>258</x>
+     <y>190</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Buttonz7">
+   <property name="geometry">
+    <rect>
+     <x>242</x>
+     <y>30</y>
+     <width>41</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_jh">
+   <property name="geometry">
+    <rect>
+     <x>194</x>
+     <y>190</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>#</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_4">
+   <property name="geometry">
+    <rect>
+     <x>2</x>
+     <y>140</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>4ghi</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>2</x>
+     <y>0</y>
+     <width>331</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_1">
+   <property name="geometry">
+    <rect>
+     <x>2</x>
+     <y>90</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>1</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Buttonz5">
+   <property name="geometry">
+    <rect>
+     <x>162</x>
+     <y>30</y>
+     <width>41</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Button_9">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>190</y>
+     <width>64</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>9wxyz</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
